@@ -1,5 +1,19 @@
 
-# Bootstrap
+# Gerador de CPF
+
+## devDependencies": 
+### @babel/cli
+### @babel/core
+### @babel/preset-env
+### babel-loader
+### webpack
+### webpack-cli
+ 
+## dependencies
+### core-js
+### css-loader
+### regenerator-runtime
+### style-loader
 
 
 
